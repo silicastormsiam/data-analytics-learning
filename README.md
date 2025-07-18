@@ -27,8 +27,8 @@ This repository captures my progress in mastering data analytics, blending techn
 Follow my neon-infused journey on [YouTube](https://www.youtube.com/@SilicaStormSiam).
 
 ## Badges
-![Coursera](https://img.shields.io/badge/Coursera-Neon%20Pink-FF69B4?logo=coursera&logoColor=white)
-![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-Neon%20Green-00FF00?logo=google&logoColor=white)
-![Grow with Google](https://img.shields.io/badge/Grow%20with%20Google-Neon%20Purple-800080?logo=google&logoColor=white)
+![Coursera](https://img.shields.io/badge/Coursera-FF69B4?logo=coursera&logoColor=white)
+![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-00FF00?logo=google&logoColor=white)
+![Grow with Google](https://img.shields.io/badge/Grow%20with%20Google-800080?logo=google&logoColor=white)
 
 *Last updated: July 18, 2025*
