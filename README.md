@@ -24,7 +24,7 @@ This repository captures my progress in mastering data analytics, blending techn
 - [Project Management Learning](https://github.com/silicastormsiam/project-management-learning)
 
 ## Watch
-Follow my neon-infused journey on [YouTube](https://www.youtube.com/@SilicaStormSiam).
+Follow my neon-infused Cyberpunk Monk journey on [YouTube](https://www.youtube.com/@SilicaStormSiam).
 
 ## Badges
 ![Coursera](https://img.shields.io/badge/Coursera-FF69B4?logo=coursera&logoColor=white)
