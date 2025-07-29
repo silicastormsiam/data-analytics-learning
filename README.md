@@ -1,5 +1,5 @@
 # Data Analytics Learning
-Andrew John Holland’s journey through the **Google Data Analytics Professional Certificate** on Coursera, part of the Grow with Google program, embracing a Cyberpunk Monk aesthetic.
+Andrew John Holland’s journey through the **Google Data Analytics Professional Certificate** on Coursera, part of the Grow with Google program.
 
 ## Overview
 This repository captures my progress in mastering data analytics, blending technical skills with a neon-lit vision of data-driven futures. Module 1: Foundations: Data, Data, Everywhere introduces the data lifecycle (Ask, Prepare, Process, Analyze, Share, Act) and spreadsheet fundamentals, applied to projects like homelab migration analysis.
